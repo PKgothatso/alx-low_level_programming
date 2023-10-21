@@ -4,7 +4,7 @@
  * @a: The array to be printed.
  * @n: The number of elements to be printed from the array.
  *
- * This function prints the first 'n' elements of the given array 'a'
+ * Descrip: This function prints the first 'n' elements of the given array 'a'
  * separated by commas and follwed by a newline.
  */
 void print_array(int *a, int n)
